@@ -6,6 +6,7 @@ Includes:
 - gulp;
 - gulp-autoprefixer;
 - gulp-babel;
+- gulp-concat;
 - gulp-cssnano;
 - gulp-index;
 - gulp-inject-partials;
