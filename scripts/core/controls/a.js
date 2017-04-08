@@ -1,0 +1,1 @@
+"use strict";var ST=ST||{};ST.CONTROL_A=function(){return{init:function(i,n){var t=this;t.el=$(i),t.variables()},variables:function(){var i=this;console.log(i)}}};
